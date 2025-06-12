@@ -1,0 +1,13 @@
+{
+  "Metadata": {
+    "title": "Aplicación de ejemplo",
+    "description": "Esta es una aplicación de ejemplo para demostrar la internacionalización."
+  },
+  "LoginPage": {
+    "title": "Iniciar sesión",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "loginButton": "Iniciar sesión",
+    "forgotPassword": "¿Olvidaste tu contraseña?"
+  }
+}

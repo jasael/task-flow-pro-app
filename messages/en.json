@@ -1,0 +1,13 @@
+{
+  "Metadata": {
+    "title": "Sample Application",
+    "description": "This is a sample application to demonstrate internationalization."
+  },
+  "LoginPage": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "forgotPassword": "Forgot your password?"
+  }
+}
