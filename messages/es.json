@@ -4,10 +4,34 @@
     "description": "Esta es una aplicación de ejemplo para demostrar la internacionalización."
   },
   "LoginPage": {
-    "title": "Iniciar sesión",
-    "username": "Nombre de usuario",
-    "password": "Contraseña",
-    "loginButton": "Iniciar sesión",
-    "forgotPassword": "¿Olvidaste tu contraseña?"
+    "title": "Inicie sesión en su cuenta",
+    "description": "Ingrese su correo electrónico a continuación para iniciar sesión en su cuenta",
+    "form": {
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "action": {
+        "submit": "Iniciar sesión",
+        "google": "Iniciar sesión con Google"
+      }
+    },
+    "extras": {
+      "forgot-password": "¿Olvidó su contraseña?",
+      "register": "¿No tiene una cuenta? <link>Regístrate</link>"
+    }
+  },
+  "RegisterPage": {
+    "title": "Crea tu cuenta - Únete a Task Flow Pro Hoy!",
+    "description": "Regístrate para comenzar a usar Task Flow Pro y desbloquear todas las funciones.",
+    "form": {
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "action": {
+        "submit": "Registrarse",
+        "google": "Registrarse con Google"
+      }
+    },
+    "extras": {
+      "login": "¿Ya tienes una cuenta? <link>Inicia sesión</link>"
+    }
   }
 }

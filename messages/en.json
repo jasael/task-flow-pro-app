@@ -4,10 +4,34 @@
     "description": "This is a sample application to demonstrate internationalization."
   },
   "LoginPage": {
-    "title": "Login",
-    "username": "Username",
-    "password": "Password",
-    "loginButton": "Login",
-    "forgotPassword": "Forgot your password?"
+    "title": "Login to your account",
+    "description": "Enter your email below to login to your account",
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "action": {
+        "submit": "Login",
+        "google": "Login with Google"
+      }
+    },
+    "extras": {
+      "forgot-password": "Forgot your password?",
+      "register": "Don't have an account? <link>Sign up</link>"
+    }
+  },
+  "RegisterPage": {
+    "title": "Create Your Account – Join Task Flow Pro Today!",
+    "description": "Sign up to start using Task Flow Pro and unlock all features.",
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "action": {
+        "submit": "Sign Up",
+        "google": "Sign Up with Google"
+      }
+    },
+    "extras": {
+      "login": "Already have an account? <link>Login</link>"
+    }
   }
 }

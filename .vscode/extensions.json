@@ -1,5 +1,8 @@
 {
     "recommendations": [
-        "lokalise.i18n-ally"
+        "lokalise.i18n-ally",
+        "ms-ceintl.vscode-language-pack-es",
+        "streetsidesoftware.code-spell-checker-spanish",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
